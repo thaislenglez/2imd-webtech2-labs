@@ -14,3 +14,4 @@ Add a hyperlink to your lab1 assignment here:
 * Glenn Van Haute:  https://github.com/MarijnR/ayecaptain
 * Stijn D'Hollander: https://github.com/stijnDH/lab1-recepten
 * Sara Barrera: https://github.com/MarijnR/ayecaptain
+* Thais Lenglez: https://github.com/MarijnR/ayecaptain
