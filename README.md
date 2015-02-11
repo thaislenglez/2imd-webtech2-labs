@@ -10,3 +10,4 @@ Add a hyperlink to your lab1 assignment here:
 * Niels Meulders: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Brent Stappaerts: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Jasper De Smet: https://github.com/JasperDS/webtech-lab1
+* Thais Lenglez: https://github.com/MarijnR/ayecaptain.git
